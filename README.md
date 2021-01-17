@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... C#
 - 🤔 I’m looking for help with ... Back-End 
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Youtube Channel](https://www.youtube.com/channel/UC2rcegeCTdG1t0LhbyZu9YQ?view_as=subscriber)
+- 📫 How to reach me: ... [LinkedIn] (https://www.linkedin.com/in/ay%C5%9Fe-ilhanl%C4%B1-835b9019b/)
 - 😄 Pronouns: ... She / Her
 - ⚡ Fun fact: ... I'm still learning and I'm so confused
 -->
