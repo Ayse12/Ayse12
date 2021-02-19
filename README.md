@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-## 📌 GitHub Stats And Top Languages
 
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayse12&show_icons=true&count_private=true&hide=contribs,issues" alt="Ayse12's github stats" /> <p></p>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayse12&layout=compact&hide=html,css" alt="My Top Langs" />
 
 
 ## :octocat: How to Reach Me
